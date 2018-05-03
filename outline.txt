@@ -1,0 +1,15 @@
+Firstly I navigated to my desktop then used md basic_repo
+From there I used git init to create a local repository,
+I used the command echo to add text straight into my "myCat.txt" file
+and then did the same for my index.html file.
+At this point I used git add . to add both of the files to staging followed by
+"git commit -m "initial commit""
+
+I then used "git remote add origin https://github.com/MarkBraaten/basic_repo.git" 
+ and "git push -u origin master" to comment
+to my git hub repository
+
+After that I opened VSC to add HTML tags to my index.html and added
+a second line of text to myCat.txt file.
+
+followed by restaging and commiting the two files to my repository.
